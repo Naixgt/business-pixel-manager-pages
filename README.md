@@ -16,7 +16,7 @@ This repository contains the legal pages required for the Facebook Developer app
 
 ## Setup
 
-1. Create a new repository named `netology-code.github.io`
+1. Create a new repository named `naixgt.github.io`
 2. Upload these files to the repository
 3. Enable GitHub Pages in Settings → Pages
 4. Set source to "Deploy from a branch" → "main" branch
